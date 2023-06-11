@@ -68,7 +68,7 @@ body::before {
 <body onload="alert('エンプティーズ と レプレッションズ、忘年会の記録です！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
 <h1><span class="yellow"><marquee behavior="alternate">!!! Empty's & Lepression's !!!</marquee></span></h1>
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/Empty-s/">忘年会</a>>忘年会_2</p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/Empty-s/">忘年会</a>>忘年会_2><a href="https://torokoid.github.io/Empty-s_3/">新橋飲み会</a></p></div>
 <p align="right">2022、東京駅→新橋、忘年会。背景は東京駅の青空。</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="qr___.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
